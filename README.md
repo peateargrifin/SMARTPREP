@@ -1,1 +1,0 @@
-AI-powered MCQ generator using Retrieval-Augmented Generation (RAG) to create quizzes from PDFs and YT LINK
